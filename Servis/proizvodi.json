@@ -1,0 +1,22 @@
+[
+    {
+        "Kategorija": "Laptopovi",
+        "Cena": {
+           "_valuta": "RSD",
+           "__text": "85999"
+        },
+        "Opis": "ACER Aspire 7 A715-41G-R3R3 - NH.Q8LEX.00J\n            EAN:4710886139645\n            Model procesora:AMD Picasso Ryzen 5 3550H do 3.7GHz\n            Dijagonala ekrana:15.6\n            Tip grafičke karte:GeForce GTX 1650\n            RAM memorija:8GB\n            HDD SSD:256GB SSD",
+        "Oznake": {
+           "Tag": [
+              "Laptop",
+              "ACER",
+              "PicassoRyzen"
+           ]
+        },
+        "Akcija": {
+           "_novaCena": "68.799",
+           "_datumIsteka": "2021-04-25",
+           "__text": "20%"
+        }
+    }
+]
